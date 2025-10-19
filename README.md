@@ -48,3 +48,17 @@ A SwiftUI app that showcases my favorite classic retro gaming consoles with deta
 1. Clone the repository
 2. Open `Midterm_DavidDeng.xcodeproj` in Xcode
 3. Run project on iPhone simulator or device
+
+## Requirements Completed
+- SwiftUI project with proper bundle identifier
+- Documentation header in ContentView
+- Navigation title includes student name
+- JSON file with edited console data
+- List view with images and names from JSON
+- Navigation to detail views with larger images and descriptions
+- README file with project description and demo video
+
+## Image and Data Credits
+- Console icons: [Retro Game Console Icons](https://github.com/KyleBing/retro-game-console-icons) by KyleBing
+- Console images sourced from various retro gaming sites, museum collections, and Wikimedia Commons
+- Description data sourced from respective console's Wikipedia pages
