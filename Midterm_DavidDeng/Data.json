@@ -5,7 +5,7 @@
     "releaseDate": "1989 / 1998",
     "manufacturer": "Nintendo",
     "type": "handheld",
-    "description": "The iconic brick that defined portable gaming for a generation. Game Boy Color added color without sacrificing backward compatibility.",
+    "description": "The Game Boy launched in 1989 as Nintendo's iconic handheld that revolutionized portable gaming. While it had a simple monochrome screen compared to flashier competitors, its incredible battery life and must-have games like Tetris made it a 1990s phenomenon. The Game Boy Color added vibrant colors in 1998 while keeping full backward compatibility, ensuring the massive Game Boy library lived on. Together they sold over 118 million units, making them the fourth-best-selling game system of all time.",
     "notableGames": "Tetris, Pokémon Red/Blue, The Legend of Zelda: Link's Awakening DX",
     "imageName": "gameboy"
   },
@@ -15,7 +15,7 @@
     "releaseDate": "1985",
     "manufacturer": "Nintendo",
     "type": "console",
-    "description": "The system that revived the North American video game market after the 1983 crash. Famous for its front-loading cartridge design.",
+    "description": "The Nintendo Entertainment System launched in 1985 as the console that rescued the American video game industry after the 1983 crash. Originally called the Family Computer in Japan, its sleek, VCR-inspired design helped distance it from earlier toy-like consoles. With iconic titles like Super Mario Bros., The Legend of Zelda, and Metroid, it established Nintendo as a household name and set the standard for third-party game licensing. Selling over 61 million units, the NES laid the foundation for decades of Nintendo's console dominance.",
     "notableGames": "Super Mario Bros. 3, The Legend of Zelda, Metroid, Mega Man 2",
     "imageName": "nes"
   },
@@ -25,7 +25,7 @@
     "releaseDate": "1991",
     "manufacturer": "Nintendo",
     "type": "console",
-    "description": "16-bit powerhouse known for its vibrant color palette and Mode 7 scaling effects. The pinnacle of 2D gaming.",
+    "description": "The Super Nintendo Entertainment System launched in 1991 as Nintendo's 16-bit successor to the NES, bringing improved graphics and sound. While arriving later than Sega's Genesis, its vibrant color palette and Mode 7 scaling effects created visually stunning games that pushed 2D gaming to its peak. With timeless classics like Super Mario World, A Link to the Past, and Chrono Trigger, it built an incredible library that defined a generation. Selling 49 million units, the SNES remains beloved by retro gamers and collectors for its exceptional game quality.",
     "notableGames": "Super Mario World, The Legend of Zelda: A Link to the Past, Super Metroid, Chrono Trigger",
     "imageName": "snes"
   },
@@ -35,7 +35,7 @@
     "releaseDate": "1989",
     "manufacturer": "Sega",
     "type": "console",
-    "description": "Sega's 16-bit answer to Nintendo, marketed as the cooler, edgier alternative with 'Blast Processing' and attitude.",
+    "description": "The Sega Genesis launched in 1989 as Sega's 16-bit challenger to Nintendo's dominance, marketed as the cooler, edgier alternative with 'Blast Processing.' While it struggled in Japan, it found massive success in North America and Europe by targeting older teens with aggressive marketing and arcade-style games. Sonic the Hedgehog became its mascot and flagship franchise, sparking the legendary 16-bit 'console wars' against the Super Nintendo. Selling over 30 million units, the Genesis cemented Sega as a major player and created some of gaming's most memorable rivalries.",
     "notableGames": "Sonic the Hedgehog 2, Streets of Rage 2, Phantasy Star IV, Gunstar Heroes",
     "imageName": "genesis"
   },
@@ -45,7 +45,7 @@
     "releaseDate": "1987",
     "manufacturer": "NEC",
     "type": "console",
-    "description": "First 16-bit console to market, though used a modified 8-bit CPU. Hugely popular in Japan as the PC Engine.",
+    "description": "The TurboGrafx-16 launched in 1989 as NEC's entry into the 16-bit console wars, though it actually used an 8-bit CPU with 16-bit graphics. While it was called the PC Engine in Japan and became a huge success there, it struggled in North America due to limited marketing and a smaller game library. It was notable for being the first console with a CD-ROM add-on, pioneering disc-based gaming years before competitors. Despite its compact size and technical innovations, the TurboGrafx-16 ultimately couldn't compete with the marketing power of Nintendo and Sega in Western markets.",
     "notableGames": "R-Type, Bonk's Adventure, Splatterhouse, Ys Book I & II",
     "imageName": "turbografx"
   },
@@ -55,7 +55,7 @@
     "releaseDate": "1991",
     "manufacturer": "SNK",
     "type": "console",
-    "description": "The ultimate 'arcade perfect' home console. Prohibitively expensive but delivered exact arcade quality at home.",
+    "description": "The Neo Geo AES launched in 1990 as SNK's legendary 'arcade perfect' home console, delivering exact arcade quality that no other system could match. Originally intended only for rental stores, it became a luxury item with an eye-popping $650 price tag - the most expensive home console ever when adjusted for inflation. Each game cost up to $300, making it accessible only to the most dedicated gamers. While commercially niche, it developed a cult following for its incredible fighting games like Metal Slug and King of Fighters, becoming one of gaming's most coveted collector's items.",
     "notableGames": "Samurai Shodown II, Metal Slug, The King of Fighters '98, Fatal Fury Special",
     "imageName": "neogeoaes"
   },
@@ -65,7 +65,7 @@
     "releaseDate": "1994",
     "manufacturer": "Sony",
     "type": "console",
-    "description": "The disc-based revolution that shifted the industry away from cartridges and brought gaming to the masses.",
+    "description": "The original PlayStation launched in 1995 and completely transformed the gaming landscape by shifting the industry from cartridges to CD-ROMs. After a failed partnership with Nintendo, Sony entered the market with a console focused on 3D graphics and third-party developer support. With groundbreaking titles like Metal Gear Solid, Final Fantasy VII, and Resident Evil, it built an incredible library that appealed to older teens and adults. Selling over 100 million units, the PlayStation established Sony as a gaming powerhouse and made CD-based gaming the new standard.",
     "notableGames": "Final Fantasy VII, Metal Gear Solid, Castlevania: Symphony of the Night, Tekken 3",
     "imageName": "playstation"
   },
@@ -75,7 +75,7 @@
     "releaseDate": "1994",
     "manufacturer": "Sega",
     "type": "console",
-    "description": "Complex dual-CPU architecture made development challenging, but hosted incredible 2D fighters and unique Japanese titles.",
+    "description": "The Sega Saturn launched in 1995 as Sega's ambitious 32-bit CD-based console, featuring a complex dual-CPU architecture that made game development challenging. Its surprise early US release created confusion among retailers and developers, while the cancellation of Sonic X-treme left it without a proper 3D Sonic game. Though it struggled commercially in the West, the Saturn excelled in Japan with incredible 2D fighters and unique titles like Nights into Dreams and Panzer Dragoon. Selling just over 9 million units, the Saturn's commercial struggles ultimately led to Sega's exit from the hardware business after its successor, the Dreamcast.",
     "notableGames": "Nights into Dreams, Panzer Dragoon Saga, Guardian Heroes, Virtua Fighter 2",
     "imageName": "segasaturn"
   },
@@ -85,7 +85,7 @@
     "releaseDate": "1995",
     "manufacturer": "Nintendo",
     "type": "handheld",
-    "description": "Nintendo's infamous stereoscopic 3D tabletop console. Red monochrome display and notorious for causing headaches.",
+    "description": "The Virtual Boy launched in 1995 as Nintendo's infamous stereoscopic 3D experiment that became their biggest commercial failure. Using red monochrome displays viewed through a binocular headset, it promised immersive 3D gaming but delivered headaches and eye strain instead. Rushed to market with only 22 games before Nintendo shifted focus to the N64, it struggled with poor ergonomics and an unappealing visual experience. Selling just 770,000 units, the Virtual Boy remains Nintendo's lowest-selling console and a cautionary tale about pushing technology too far, too fast.",
     "notableGames": "Virtual Boy Wario Land, Mario's Tennis, Teleroboxer",
     "imageName": "virtualboy"
   },
@@ -95,7 +95,7 @@
     "releaseDate": "1998 / 1999",
     "manufacturer": "SNK",
     "type": "handheld",
-    "description": "Incredible fighting game handheld with a clicky microswitched joystick. Excellent battery life and build quality.",
+    "description": "The Neo Geo Pocket launched in 1998 as SNK's entry into handheld gaming, quickly followed by the full-color Neo Geo Pocket Color in 1999. It featured an incredible clicky microswitched joystick that was perfect for fighting games like King of Fighters and SNK vs. Capcom. Despite its excellent build quality and strong battery life, it struggled against Nintendo's Game Boy dominance and had limited third-party support. The system was discontinued in 2001 after SNK's bankruptcy, making it the company's final hardware venture and a cult favorite among fighting game fans.",
     "notableGames": "SNK vs. Capcom: Match of the Millennium, Metal Slug 1st Mission, Faselei!",
     "imageName": "neogeopocket"
   },
@@ -105,7 +105,7 @@
     "releaseDate": "1999 / 2000",
     "manufacturer": "Bandai",
     "type": "handheld",
-    "description": "Designed by Game Boy creator Gunpei Yokoi's final company. Huge in Japan but never released internationally.",
+    "description": "The WonderSwan launched in 1999 as Bandai's Japan-exclusive handheld, representing the final hardware project from Game Boy creator Gunpei Yokoi. Its innovative dual-orientation design allowed gameplay in both vertical and horizontal positions, powered by a single AA battery for impressive battery life. While it never left Japan, it gained a loyal following with strong Square support including Final Fantasy ports and unique anime-based games. Selling 3.5 million units, the WonderSwan captured 8% of the Japanese handheld market before being overshadowed by the Game Boy Advance.",
     "notableGames": "Final Fantasy I-IV, Judgement Silversword, Makaimura for WonderSwan",
     "imageName": "wonderswan"
   },
@@ -115,7 +115,7 @@
     "releaseDate": "2001",
     "manufacturer": "Nintendo",
     "type": "handheld",
-    "description": "Final major 2D-focused Nintendo handheld with SNES-level power and full backward compatibility with Game Boy library.",
+    "description": "The Game Boy Advance launched in 2001 as Nintendo's 32-bit handheld successor that delivered SNES-level graphics in your pocket. With its powerful ARM7 processor and full backward compatibility with Game Boy games, it offered the largest and most diverse library of any handheld at the time. The iconic clamshell SP redesign in 2003 added a frontlit screen, finally making handheld gaming visible in any lighting. Selling over 81 million units, the GBA dominated the handheld market and served as the magnificent finale to Nintendo's cartridge-based portable era before the DS arrived.",
     "notableGames": "Metroid Fusion, Advance Wars, The Legend of Zelda: The Minish Cap, Castlevania: Aria of Sorrow",
     "imageName": "gba"
   }
