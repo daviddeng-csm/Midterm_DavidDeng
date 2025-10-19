@@ -2,6 +2,8 @@
 //  ContentView.swift
 //  Midterm_DavidDeng
 //
+//  Midterm Programming Assignment
+//
 //  Created by David Deng on 10/14/25.
 //
 

@@ -1,62 +1,122 @@
 [
-    {
-        "id": "aa32jj887hhg55",
-        "name": "replace with your item's name 1",
-        "description": "replace with a description for this item",
-        "imageName": "image1"
-    },
-    {
-        "id": "bb32jj887hhg77",
-        "name": "replace with your item's name 2",
-        "description": "replace with a description for this item",
-        "imageName": "image2"
-    },
-    {
-        "id": "cc32jj887hhg66",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
-        "imageName": "image3"
-    },
-    {
-        "id": "dd32jj887hhg88",
-        "name": "replace with your item's name 3",
-        "description": "replace with a description for this item",
-        "imageName": "image4"
-    },
-    {
-        "id": "ee32jj887hhg99",
-        "name": "replace with your item's name 4",
-        "description": "replace with a description for this item",
-        "imageName": "image5"
-    },
-    {
-        "id": "ff32jj887hhg99",
-        "name": "replace with your item's name 5",
-        "description": "replace with a description for this item",
-        "imageName": "image6"
-    },
-    {
-        "id": "gg32jj887hhg99",
-        "name": "replace with your item's name 6",
-        "description": "replace with a description for this item",
-        "imageName": "image7"
-    },
-    {
-        "id": "hh32jj887hhg99",
-        "name": "replace with your item's name 7",
-        "description": "replace with a description for this item",
-        "imageName": "image8"
-    },
-    {
-        "id": "ii32jj887hhg99",
-        "name": "replace with your item's name 8",
-        "description": "replace with a description for this item",
-        "imageName": "image9"
-    },
-    {
-        "id": "jj32jj887hhg99",
-        "name": "replace with your item's name 9",
-        "description": "replace with a description for this item",
-        "imageName": "image10"
-    }
+  {
+    "id": "gb001",
+    "name": "Game Boy / Game Boy Color",
+    "releaseDate": "1989 / 1998",
+    "manufacturer": "Nintendo",
+    "type": "handheld",
+    "description": "The iconic brick that defined portable gaming for a generation. Game Boy Color added color without sacrificing backward compatibility.",
+    "notableGames": "Tetris, Pokémon Red/Blue, The Legend of Zelda: Link's Awakening DX",
+    "imageName": "gameboy"
+  },
+  {
+    "id": "nes001",
+    "name": "Nintendo Entertainment System (NES)",
+    "releaseDate": "1985",
+    "manufacturer": "Nintendo",
+    "type": "console",
+    "description": "The system that revived the North American video game market after the 1983 crash. Famous for its front-loading cartridge design.",
+    "notableGames": "Super Mario Bros. 3, The Legend of Zelda, Metroid, Mega Man 2",
+    "imageName": "nes"
+  },
+  {
+    "id": "snes001",
+    "name": "Super Nintendo (SNES)",
+    "releaseDate": "1991",
+    "manufacturer": "Nintendo",
+    "type": "console",
+    "description": "16-bit powerhouse known for its vibrant color palette and Mode 7 scaling effects. The pinnacle of 2D gaming.",
+    "notableGames": "Super Mario World, The Legend of Zelda: A Link to the Past, Super Metroid, Chrono Trigger",
+    "imageName": "snes"
+  },
+  {
+    "id": "genesis001",
+    "name": "Sega Genesis",
+    "releaseDate": "1989",
+    "manufacturer": "Sega",
+    "type": "console",
+    "description": "Sega's 16-bit answer to Nintendo, marketed as the cooler, edgier alternative with 'Blast Processing' and attitude.",
+    "notableGames": "Sonic the Hedgehog 2, Streets of Rage 2, Phantasy Star IV, Gunstar Heroes",
+    "imageName": "genesis"
+  },
+  {
+    "id": "tg16001",
+    "name": "TurboGrafx-16 / PC Engine",
+    "releaseDate": "1987",
+    "manufacturer": "NEC",
+    "type": "console",
+    "description": "First 16-bit console to market, though used a modified 8-bit CPU. Hugely popular in Japan as the PC Engine.",
+    "notableGames": "R-Type, Bonk's Adventure, Splatterhouse, Ys Book I & II",
+    "imageName": "turbografx"
+  },
+  {
+    "id": "neogeo001",
+    "name": "Neo Geo AES",
+    "releaseDate": "1991",
+    "manufacturer": "SNK",
+    "type": "console",
+    "description": "The ultimate 'arcade perfect' home console. Prohibitively expensive but delivered exact arcade quality at home.",
+    "notableGames": "Samurai Shodown II, Metal Slug, The King of Fighters '98, Fatal Fury Special",
+    "imageName": "neogeoaes"
+  },
+  {
+    "id": "ps1001",
+    "name": "Sony PlayStation",
+    "releaseDate": "1994",
+    "manufacturer": "Sony",
+    "type": "console",
+    "description": "The disc-based revolution that shifted the industry away from cartridges and brought gaming to the masses.",
+    "notableGames": "Final Fantasy VII, Metal Gear Solid, Castlevania: Symphony of the Night, Tekken 3",
+    "imageName": "playstation"
+  },
+  {
+    "id": "saturn001",
+    "name": "Sega Saturn",
+    "releaseDate": "1994",
+    "manufacturer": "Sega",
+    "type": "console",
+    "description": "Complex dual-CPU architecture made development challenging, but hosted incredible 2D fighters and unique Japanese titles.",
+    "notableGames": "Nights into Dreams, Panzer Dragoon Saga, Guardian Heroes, Virtua Fighter 2",
+    "imageName": "segasaturn"
+  },
+  {
+    "id": "virtualboy001",
+    "name": "Virtual Boy",
+    "releaseDate": "1995",
+    "manufacturer": "Nintendo",
+    "type": "handheld",
+    "description": "Nintendo's infamous stereoscopic 3D tabletop console. Red monochrome display and notorious for causing headaches.",
+    "notableGames": "Virtual Boy Wario Land, Mario's Tennis, Teleroboxer",
+    "imageName": "virtualboy"
+  },
+  {
+    "id": "ngpc001",
+    "name": "Neo Geo Pocket / Color",
+    "releaseDate": "1998 / 1999",
+    "manufacturer": "SNK",
+    "type": "handheld",
+    "description": "Incredible fighting game handheld with a clicky microswitched joystick. Excellent battery life and build quality.",
+    "notableGames": "SNK vs. Capcom: Match of the Millennium, Metal Slug 1st Mission, Faselei!",
+    "imageName": "neogeopocket"
+  },
+  {
+    "id": "wonderswan001",
+    "name": "WonderSwan / Color",
+    "releaseDate": "1999 / 2000",
+    "manufacturer": "Bandai",
+    "type": "handheld",
+    "description": "Designed by Game Boy creator Gunpei Yokoi's final company. Huge in Japan but never released internationally.",
+    "notableGames": "Final Fantasy I-IV, Judgement Silversword, Makaimura for WonderSwan",
+    "imageName": "wonderswan"
+  },
+  {
+    "id": "gba001",
+    "name": "Game Boy Advance",
+    "releaseDate": "2001",
+    "manufacturer": "Nintendo",
+    "type": "handheld",
+    "description": "Final major 2D-focused Nintendo handheld with SNES-level power and full backward compatibility with Game Boy library.",
+    "notableGames": "Metroid Fusion, Advance Wars, The Legend of Zelda: The Minish Cap, Castlevania: Aria of Sorrow",
+    "imageName": "gba"
+  }
 ]
